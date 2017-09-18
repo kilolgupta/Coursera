@@ -1,2 +1,2 @@
-# Coursera
-This repository include my solutions to the various Coursera courses I have done over the years.
+# algorithmic-toolbox-coursera
+This repository includes my JAVA solutions to the algorithmic toolbox course under Data Structures and Algorithms Specialization on Coursera.
